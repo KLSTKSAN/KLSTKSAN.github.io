@@ -10,6 +10,6 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site: `http://klstksan.github.io`,
+	site: `https://KLSTKSAN.github.io`,
 	base: '/digital-guide'
 });
