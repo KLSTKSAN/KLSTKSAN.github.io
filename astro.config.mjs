@@ -11,5 +11,5 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://KLSTKSAN.github.io`,
-	base: '/digital-guide'
+	base: '/KLSTKSAN.github.io'
 });
