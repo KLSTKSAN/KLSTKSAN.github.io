@@ -11,5 +11,4 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://KLSTKSAN.github.io`,
-	base: '/KLSTKSAN.github.io'
 });
