@@ -1,7 +1,6 @@
 ---
 title: Introduction
-description: Docs Intro
+description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
-
-# Something
+# Introduction
