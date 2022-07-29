@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Digital Guide',
+	description: 'A guide to the KLST, KSAN, Concho Valley Homepage newsroom.',
 	defaultLanguage: 'en_US',
 };
 
