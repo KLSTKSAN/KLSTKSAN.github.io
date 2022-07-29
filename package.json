@@ -1,18 +1,25 @@
 {
-  "name": "cvhp-guide",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@example/docs",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "dependencies": {
+    "@algolia/client-search": "^4.13.1",
+    "@docsearch/css": "^3.1.0",
+    "@docsearch/react": "^3.1.0",
+    "@types/react": "^17.0.45",
+    "preact": "^10.7.3",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.4",
-    "vue": "^3.2.37"
+    "@astrojs/preact": "^0.5.2",
+    "@astrojs/react": "^0.4.2",
+    "astro": "^1.0.0-rc.2"
   }
 }
