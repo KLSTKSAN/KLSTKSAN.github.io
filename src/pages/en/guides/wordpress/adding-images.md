@@ -1,7 +1,5 @@
 ---
 title: Adding Images
 description: Adding Images
-layout: ../../layouts/MainLayout.astro
+layout: ../../../../layouts/MainLayout.astro
 ---
-
-# Adding Images

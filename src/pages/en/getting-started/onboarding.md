@@ -1,5 +1,5 @@
 ---
-title: Guidelines
-description: Guidelines
+title: Onboarding
+description: Onboarding
 layout: ../../../layouts/MainLayout.astro
 ---

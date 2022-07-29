@@ -1,5 +1,5 @@
 ---
-title: Guidelines
-description: Guidelines
+title: Introduction
+description: Docs intro
 layout: ../../../layouts/MainLayout.astro
 ---

@@ -1,7 +1,5 @@
 ---
 title: Categories
 description: Categories
-layout: ../../layouts/MainLayout.astro
+layout: ../../../../layouts/MainLayout.astro
 ---
-
-# Categories

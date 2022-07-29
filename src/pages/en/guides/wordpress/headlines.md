@@ -1,7 +1,5 @@
 ---
 title: Headlines
 description: Headlines
-layout: ../../layouts/MainLayout.astro
+layout: ../../../../layouts/MainLayout.astro
 ---
-
-# Headlines
