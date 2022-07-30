@@ -1,5 +1,0 @@
----
-title: Guides
-description: Guides
-layout: ../../../layouts/MainLayout.astro
----

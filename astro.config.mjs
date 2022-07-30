@@ -11,4 +11,7 @@ export default defineConfig({
 		react(),
 	],
 	site: `http://KLSTKSAN.github.io`,
+	legacy: {
+		astroFlavoredMarkdown: true
+	}
 });
